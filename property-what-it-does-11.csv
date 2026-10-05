@@ -1,0 +1,12 @@
+﻿Property,What it does,Simple meaning
+padding,space inside,pillow inside the box
+margin,space outside,space around the box
+border,outline,frame around the box
+letter-spacing,space between letters,spreads letters
+word-spacing,space between words,spreads words
+line-height,space between lines,makes text readable
+text-indent,indent first line,book-style paragraph
+text-transform,uppercase/lowercase,changes text case
+width/height,size,controls dimensions
+display,layout behavior,block/inline
+margin auto,centers element,perfect centering

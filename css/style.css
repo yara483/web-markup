@@ -1,1 +1,17 @@
-/* add all items from grading group 3 and 4. Search for items in group 5 that refer to css f.e. z index */ 
+h1 { 
+    font-family: "Modern line", sans-serif;
+    color:maroon;
+} 
+
+img{
+    border: 3px solid beige;
+    display:block;
+    margin:0 auto;     
+}
+
+a {
+    Background-color:maroon;
+    color:white;
+    padding:5px 10px;
+    text-decoration:none;0
+}
